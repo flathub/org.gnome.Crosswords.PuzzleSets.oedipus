@@ -22,7 +22,7 @@
 				{
 					"type": "git",
 					"url": "https://gitlab.gnome.org/davide125/puzzle-sets-oedipus",
-					"tag": "0.1.0"
+					"tag": "0.1.1"
 				}
 			],
 			"post-install": [
